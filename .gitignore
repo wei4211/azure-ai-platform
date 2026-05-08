@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# generated files
+static/speech_*.mp3
+static/uploads/
+
+# os
+.DS_Store
+Thumbs.db
+
+# virtual env
+venv/
+.venv/
